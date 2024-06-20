@@ -1,25 +1,12 @@
-![first page](/images/first_page.png)
-*starting page*
+# Project Screenshots
 
-![create submission page](/images/create_submission.png)
-*create submission page*
-
-![create submission page](/images/email_validation.png)
-*email validation*
-
-![success message](/images/sucess_message.png)
-*sucess message*
-
-![sbjson page](/images/dbjson.png)
-*entry stored in db*
-
-![view submissions page](/images/view_submission.png)
-*view submission*
-
-![view submissions page](/images/delete_submission.png)
-*delete submission*
-
-![search page](/images/search.png)
-*search page*
-
-
+| Name                      | Screenshot                                                                                 |
+|---------------------------|--------------------------------------------------------------------------------------------|
+| Starting Page             | ![Starting Page](/images/first_page.png)                                                    |
+| Create Submission Page   | ![Create Submission Page](/images/create_submission.png)                                    |
+| Email Validation         | ![Email Validation](/images/email_validation.png)                                            |
+| Success Message          | ![Success Message](/images/success_message.png)                                              |
+| Entry Stored in Database | ![Entry Stored in Database](/images/dbjson.png)                                              |
+| View Submissions Page    | ![View Submissions Page](/images/view_submission.png)                                        |
+| Delete Submission Page   | ![Delete Submission Page](/images/delete_submission.png)                                    |
+| Search Page              | ![Search Page](/images/search.png)                                                          |
