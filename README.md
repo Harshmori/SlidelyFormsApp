@@ -1,3 +1,7 @@
+**You can download the build zip file from the following location(to run it you will first have to setup local server)**
+
+[Download Build Zip](/FormAppBuild.zip)
+
 # Project Screenshots
 
 | Name                      | Screenshot                                                                                 |
